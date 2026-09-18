@@ -1,0 +1,7 @@
+{
+    "ManagementServerKind": 0,
+    "ManagementServer": "",
+    "ManagementServerGrpc": "",
+    "ManifestUrlTemplate": "https://mgmt.example.com/manifest.json",
+    "ClassIdentity": ""
+}

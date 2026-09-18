@@ -1,0 +1,378 @@
+{
+    "Name": "",
+    "TimeLayouts": {},
+    "ClassPlans": {
+        "0b000001-0000-4000-8000-000000000000": {
+            "TimeLayoutId": "0c000001-0000-4000-8000-000000000000",
+            "TimeRule": {
+                "WeekDay": 1,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "0a000001-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000002-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000003-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000004-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000010-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000008-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000011-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000014-0000-4000-8000-000000000000",
+                    "IsActive": false
+                }
+            ],
+            "Name": "周一",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-02T00:00:00+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0b000002-0000-4000-8000-000000000000": {
+            "TimeLayoutId": "0c000001-0000-4000-8000-000000000000",
+            "TimeRule": {
+                "WeekDay": 2,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "0a000002-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000001-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000003-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000005-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000009-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000007-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000012-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000014-0000-4000-8000-000000000000",
+                    "IsActive": false
+                }
+            ],
+            "Name": "周二",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-02T00:00:00+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0b000003-0000-4000-8000-000000000000": {
+            "TimeLayoutId": "0c000001-0000-4000-8000-000000000000",
+            "TimeRule": {
+                "WeekDay": 3,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "0a000003-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000001-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000002-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000006-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000008-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000010-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000013-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000014-0000-4000-8000-000000000000",
+                    "IsActive": false
+                }
+            ],
+            "Name": "周三",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-02T00:00:00+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0b000004-0000-4000-8000-000000000000": {
+            "TimeLayoutId": "0c000001-0000-4000-8000-000000000000",
+            "TimeRule": {
+                "WeekDay": 4,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "0a000001-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000002-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000003-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000004-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000005-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000009-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000015-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000014-0000-4000-8000-000000000000",
+                    "IsActive": false
+                }
+            ],
+            "Name": "周四",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-02T00:00:00+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0b000005-0000-4000-8000-000000000000": {
+            "TimeLayoutId": "0c000001-0000-4000-8000-000000000000",
+            "TimeRule": {
+                "WeekDay": 5,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "0a000002-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000001-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000003-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000006-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000007-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000010-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000011-0000-4000-8000-000000000000",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0a000014-0000-4000-8000-000000000000",
+                    "IsActive": false
+                }
+            ],
+            "Name": "周五",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-02T00:00:00+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        }
+    },
+    "Subjects": {
+        "0a000001-0000-4000-8000-000000000000": {
+            "Name": "语文",
+            "Initial": "语",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000002-0000-4000-8000-000000000000": {
+            "Name": "数学",
+            "Initial": "数",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000003-0000-4000-8000-000000000000": {
+            "Name": "英语",
+            "Initial": "英",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000004-0000-4000-8000-000000000000": {
+            "Name": "物理",
+            "Initial": "物",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000005-0000-4000-8000-000000000000": {
+            "Name": "化学",
+            "Initial": "化",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000006-0000-4000-8000-000000000000": {
+            "Name": "生物",
+            "Initial": "生",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000007-0000-4000-8000-000000000000": {
+            "Name": "政治",
+            "Initial": "政",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000008-0000-4000-8000-000000000000": {
+            "Name": "历史",
+            "Initial": "历",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000009-0000-4000-8000-000000000000": {
+            "Name": "地理",
+            "Initial": "地",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000010-0000-4000-8000-000000000000": {
+            "Name": "体育",
+            "Initial": "体",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000011-0000-4000-8000-000000000000": {
+            "Name": "音乐",
+            "Initial": "音",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000012-0000-4000-8000-000000000000": {
+            "Name": "美术",
+            "Initial": "美",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000013-0000-4000-8000-000000000000": {
+            "Name": "信息技术",
+            "Initial": "信",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000014-0000-4000-8000-000000000000": {
+            "Name": "自习",
+            "Initial": "习",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0a000015-0000-4000-8000-000000000000": {
+            "Name": "班会",
+            "Initial": "班",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        }
+    },
+    "IsOverlayClassPlanEnabled": false,
+    "OverlayClassPlanId": null,
+    "TempClassPlanId": null,
+    "TempClassPlanSetupTime": "2024-09-02T00:00:00+08:00",
+    "IsActive": false
+}

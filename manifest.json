@@ -1,0 +1,21 @@
+{
+    "ServerKind": 0,
+    "CoreVersion": "2.0.0.0",
+    "OrganizationName": "示例学校",
+    "ClassPlanSource": {
+        "Value": "https://mgmt.example.com/profile/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://mgmt.example.com/profile/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://mgmt.example.com/profile/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://mgmt.example.com/policy.json",
+        "Version": 1
+    }
+}
