@@ -2,6 +2,6 @@
     "ManagementServerKind": 0,
     "ManagementServer": "",
     "ManagementServerGrpc": "",
-    "ManifestUrlTemplate": "https://mgmt.example.com/manifest.json",
+    "ManifestUrlTemplate": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/manifest.json",
     "ClassIdentity": ""
 }

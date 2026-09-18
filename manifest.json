@@ -1,21 +1,21 @@
 {
     "ServerKind": 0,
     "CoreVersion": "2.0.0.0",
-    "OrganizationName": "示例学校",
+    "OrganizationName": "重庆市忠县中学 初2029级11班",
     "ClassPlanSource": {
-        "Value": "https://mgmt.example.com/profile/classplans.json",
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://mgmt.example.com/profile/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://mgmt.example.com/profile/subjects.json",
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/subjects.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://mgmt.example.com/policy.json",
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/policy.json",
         "Version": 1
     }
 }
