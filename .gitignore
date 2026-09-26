@@ -2,3 +2,5 @@ tools/bin/
 *.obj
 *.exe
 *.pdb
+!tools/split_profile.exe
+manifest.json.bak
